@@ -6,5 +6,6 @@ public class GitDemo {
         System.out.println("hello git!");
         System.out.println("hello git!");
         System.out.println("hello git! master");
+        System.out.println("hello git! slave");
     }
 }
